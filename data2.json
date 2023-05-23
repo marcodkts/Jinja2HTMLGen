@@ -1,0 +1,2825 @@
+{
+    "cabecalho": {
+      "fundo": "FIDC NEON",
+      "cnpj": "35557748000174",
+      "datas": [
+        "18-03-2022",
+        "19-03-2022",
+        "20-03-2022",
+        "21-03-2023",
+        "22-03-2023",
+        "23-03-2023"
+      ]
+    },
+    "categorias": [
+      {
+        "titulo": "Patrim\u00f4nio do Fundo",
+        "cabecalho": [
+          "Patrim\u00f4nio fundo",
+          "1.199.341.127,80",
+          "1.199.341.127,80",
+          "1.199.341.127,80",
+          "1.199.341.127,80",
+          "1.199.341.127,80",
+          "1.199.341.127,80"
+        ],
+        "linhas": []
+      },
+      {
+        "titulo": "Desenquadramentos",
+        "cabecalho": [],
+        "linhas": [
+          [
+            [
+              {
+                "status": "",
+                "valor": "Prazo máximo duplicatas (dias)",
+                "situacao": "1"
+              },
+              {
+                "status": "",
+                "valor": "184,00",
+                "situacao": "1"
+              },
+              {
+                "status": "",
+                "valor": "184,00",
+                "situacao": "1"
+              },
+              {
+                "status": "",
+                "valor": "184,00",
+                "situacao": "1"
+              },
+              {
+                "status": "",
+                "valor": "184,00",
+                "situacao": "1"
+              },
+              {
+                "status": "",
+                "valor": "184,00",
+                "situacao": "1"
+              },
+              {
+                "status": "",
+                "valor": "184,00",
+                "situacao": "1"
+              }
+            ]
+          ]
+        ]
+      },
+      {
+        "titulo": "Ativos",
+        "cabecalho": [
+          "Soma Ativos",
+          "1.237.735.201,02",
+          "1.237.735.201,02",
+          "1.237.735.201,02",
+          "1.237.735.201,02",
+          "1.237.735.201,02",
+          "1.237.735.201,02"
+        ],
+        "linhas": [
+          [
+            [
+              {
+                "status": "",
+                "valor": "Direitos Credit\u00f3rios - R$"
+              },
+              {
+                "status": "",
+                "valor": "87.496.968,33"
+              },
+              {
+                "status": "",
+                "valor": "87.496.968,33"
+              },
+              {
+                "status": "",
+                "valor": "87.496.968,33"
+              },
+              {
+                "status": "",
+                "valor": "87.496.968,33"
+              },
+              {
+                "status": "",
+                "valor": "87.496.968,33"
+              },
+              {
+                "status": "",
+                "valor": "87.496.968,33"
+              }
+            ]
+          ],
+          [
+            [
+              {
+                "status": "",
+                "valor": "Cessões - R$"
+              },
+              {
+                "status": "",
+                "valor": "2.411.790,95"
+              },
+              {
+                "status": "",
+                "valor": "2.411.790,95"
+              },
+              {
+                "status": "",
+                "valor": "2.411.790,95"
+              },
+              {
+                "status": "",
+                "valor": "2.411.790,95"
+              },
+              {
+                "status": "",
+                "valor": "2.411.790,95"
+              },
+              {
+                "status": "",
+                "valor": "2.411.790,95"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Recompra - %"
+              },
+              {
+                "status": "",
+                "valor": "0,05%"
+              },
+              {
+                "status": "",
+                "valor": "0,05%"
+              },
+              {
+                "status": "",
+                "valor": "0,05%"
+              },
+              {
+                "status": "",
+                "valor": "0,05%"
+              },
+              {
+                "status": "",
+                "valor": "0,05%"
+              },
+              {
+                "status": "",
+                "valor": "0,05%"
+              }
+            ]
+          ],
+          [
+            [
+              {
+                "status": "",
+                "valor": "Diluição - %"
+              },
+              {
+                "status": "",
+                "valor": "30%"
+              },
+              {
+                "status": "",
+                "valor": "30%"
+              },
+              {
+                "status": "",
+                "valor": "30%"
+              },
+              {
+                "status": "",
+                "valor": "30%"
+              },
+              {
+                "status": "",
+                "valor": "30%"
+              },
+              {
+                "status": "",
+                "valor": "30%"
+              }
+            ]
+          ],
+          [
+            [
+              {
+                "status": "",
+                "valor": "Taxa média da Carteira a.m. (%)"
+              },
+              {
+                "status": "",
+                "valor": "30%"
+              },
+              {
+                "status": "",
+                "valor": "30%"
+              },
+              {
+                "status": "",
+                "valor": "30%"
+              },
+              {
+                "status": "",
+                "valor": "30%"
+              },
+              {
+                "status": "",
+                "valor": "30%"
+              },
+              {
+                "status": "",
+                "valor": "30%"
+              }
+            ]
+          ],
+          [
+            [
+              {
+                "status": "",
+                "valor": "Caixas e Equivalentes - R$"
+              },
+              {
+                "status": "",
+                "valor": "0,00"
+              },
+              {
+                "status": "",
+                "valor": "0,00"
+              },
+              {
+                "status": "",
+                "valor": "0,00"
+              },
+              {
+                "status": "",
+                "valor": "0,00"
+              },
+              {
+                "status": "",
+                "valor": "0,00"
+              },
+              {
+                "status": "",
+                "valor": "0,00"
+              }
+            ]
+          ]
+        ]
+      },
+      {
+        "titulo": "Provis\u00f5es",
+        "cabecalho": [
+          "Soma Provis\u00f5es",
+          "(104.095.677,47)",
+          "(104.095.677,47)",
+          "(104.095.677,47)",
+          "(104.095.677,47)",
+          "(104.095.677,47)",
+          "(104.095.677,47)",
+          "(104.095.677,47)",
+          "(104.095.677,47)"
+        ],
+        "linhas": [
+          [
+            [
+              {
+                "status": "",
+                "valor": "PDD Carteira \u2013 R$ Mil"
+              },
+              {
+                "status": "",
+                "valor": "(20.521.370,64)"
+              },
+              {
+                "status": "",
+                "valor": "(20.521.370,64)"
+              },
+              {
+                "status": "",
+                "valor": "(20.521.370,64)"
+              },
+              {
+                "status": "",
+                "valor": "(20.521.370,64)"
+              },
+              {
+                "status": "",
+                "valor": "(20.521.370,64)"
+              },
+              {
+                "status": "",
+                "valor": "(20.521.370,64)"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Contas a Pagar e Receber - R$ Mil"
+              },
+              {
+                "status": "",
+                "valor": "(45.180.234,24)"
+              },
+              {
+                "status": "",
+                "valor": "(20.521.370,64)"
+              },
+              {
+                "status": "",
+                "valor": "(20.521.370,64)"
+              },
+              {
+                "status": "",
+                "valor": "(20.521.370,64)"
+              },
+              {
+                "status": "",
+                "valor": "(20.521.370,64)"
+              },
+              {
+                "status": "",
+                "valor": "(20.521.370,64)"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Valores a Identificar - R$ Mil"
+              },
+              {
+                "status": "",
+                "valor": "(87.495.964,84)"
+              },
+              {
+                "status": "",
+                "valor": "(20.521.370,64)"
+              },
+              {
+                "status": "",
+                "valor": "(20.521.370,64)"
+              },
+              {
+                "status": "",
+                "valor": "(20.521.370,64)"
+              },
+              {
+                "status": "",
+                "valor": "(20.521.370,64)"
+              },
+              {
+                "status": "",
+                "valor": "(20.521.370,64)"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Liquida\u00e7\u00e3o Cobran\u00e7a D+1 - R$ Mil"
+              },
+              {
+                "status": "",
+                "valor": "49.101.892,25"
+              },
+              {
+                "status": "",
+                "valor": "(20.521.370,64)"
+              },
+              {
+                "status": "",
+                "valor": "(20.521.370,64)"
+              },
+              {
+                "status": "",
+                "valor": "(20.521.370,64)"
+              },
+              {
+                "status": "",
+                "valor": "(20.521.370,64)"
+              },
+              {
+                "status": "",
+                "valor": "(20.521.370,64)"
+              }
+            ]
+          ]
+        ]
+      },
+      {
+        "titulo": "Passivos",
+        "cabecalho": [
+          "Soma Passivos",
+          "",
+          "",
+          "737.455.736,47",
+          "(20.521.370,64)",
+          "(20.521.370,64)",
+          "(20.521.370,64)",
+          "(20.521.370,64)",
+          "(20.521.370,64)"
+        ],
+        "linhas": [
+          [
+            [
+              {
+                "status": "",
+                "valor": "Patrim\u00f4nio da Cota - R$ Mil"
+              },
+              {
+                "status": "",
+                "valor": "61.892.475,94"
+              },
+              {
+                "status": "",
+                "valor": "61.892.475,94"
+              },
+              {
+                "status": "",
+                "valor": "61.892.475,94"
+              },
+              {
+                "status": "",
+                "valor": "61.892.475,94"
+              },
+              {
+                "status": "",
+                "valor": "61.892.475,94"
+              },
+              {
+                "status": "warning",
+                "valor_cobrado": "30%",
+                "valor": "62.087.246,08"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Valor da Cota - R$"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Rentabilidade dia cota"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Rentabilidade m\u00eas cota acumulado"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Rentabilidade m\u00eas - [Benchmark]"
+              },
+              {
+                "status": "",
+                "valor": "0,08%"
+              },
+              {
+                "status": "",
+                "valor": "100,00%"
+              },
+              {
+                "status": "",
+                "valor": "100,00%"
+              },
+              {
+                "status": "",
+                "valor": "100,00%"
+              },
+              {
+                "status": "",
+                "valor": "100,00%"
+              },
+              {
+                "status": "",
+                "valor": "100,00%"
+              }
+            ]
+          ],
+          [
+            [
+              {
+                "status": "",
+                "valor": "Patrim\u00f4nio da Cota - R$ Mil"
+              },
+              {
+                "status": "",
+                "valor": "61.892.475,94"
+              },
+              {
+                "status": "",
+                "valor": "61.892.475,94"
+              },
+              {
+                "status": "",
+                "valor": "61.892.475,94"
+              },
+              {
+                "status": "",
+                "valor": "61.892.475,94"
+              },
+              {
+                "status": "",
+                "valor": "61.892.475,94"
+              },
+              {
+                "status": "",
+                "valor": "62.087.246,08"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Valor da Cota - R$"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Rentabilidade dia cota"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Rentabilidade m\u00eas cota acumulado"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Rentabilidade m\u00eas - [Benchmark]"
+              },
+              {
+                "status": "",
+                "valor": "0,08%"
+              },
+              {
+                "status": "",
+                "valor": "100,00%"
+              },
+              {
+                "status": "",
+                "valor": "100,00%"
+              },
+              {
+                "status": "",
+                "valor": "100,00%"
+              },
+              {
+                "status": "",
+                "valor": "100,00%"
+              },
+              {
+                "status": "",
+                "valor": "100,00%"
+              }
+            ]
+          ],
+          [
+            [
+              {
+                "status": "",
+                "valor": "Patrim\u00f4nio da Cota - R$ Mil"
+              },
+              {
+                "status": "",
+                "valor": "61.892.475,94"
+              },
+              {
+                "status": "",
+                "valor": "61.892.475,94"
+              },
+              {
+                "status": "",
+                "valor": "61.892.475,94"
+              },
+              {
+                "status": "",
+                "valor": "61.892.475,94"
+              },
+              {
+                "status": "",
+                "valor": "61.892.475,94"
+              },
+              {
+                "status": "",
+                "valor": "62.087.246,08"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Valor da Cota - R$"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Rentabilidade dia cota"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Rentabilidade m\u00eas cota acumulado"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Rentabilidade m\u00eas - [Benchmark]"
+              },
+              {
+                "status": "",
+                "valor": "0,08%"
+              },
+              {
+                "status": "",
+                "valor": "100,00%"
+              },
+              {
+                "status": "",
+                "valor": "100,00%"
+              },
+              {
+                "status": "",
+                "valor": "100,00%"
+              },
+              {
+                "status": "",
+                "valor": "100,00%"
+              },
+              {
+                "status": "",
+                "valor": "100,00%"
+              }
+            ]
+          ],
+          [
+            [
+              {
+                "status": "",
+                "valor": "Patrim\u00f4nio da Cota - R$ Mil"
+              },
+              {
+                "status": "",
+                "valor": "61.892.475,94"
+              },
+              {
+                "status": "",
+                "valor": "61.892.475,94"
+              },
+              {
+                "status": "",
+                "valor": "61.892.475,94"
+              },
+              {
+                "status": "",
+                "valor": "61.892.475,94"
+              },
+              {
+                "status": "",
+                "valor": "61.892.475,94"
+              },
+              {
+                "status": "",
+                "valor": "62.087.246,08"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Valor da Cota - R$"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Rentabilidade dia cota"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Rentabilidade m\u00eas cota acumulado"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Rentabilidade m\u00eas - [Benchmark]"
+              },
+              {
+                "status": "",
+                "valor": "0,08%"
+              },
+              {
+                "status": "",
+                "valor": "100,00%"
+              },
+              {
+                "status": "",
+                "valor": "100,00%"
+              },
+              {
+                "status": "",
+                "valor": "100,00%"
+              },
+              {
+                "status": "",
+                "valor": "100,00%"
+              },
+              {
+                "status": "",
+                "valor": "100,00%"
+              }
+            ]
+          ]
+        ],
+        "cotas": [
+          "Mezanino A - Rentabilidade Alvo: CDI + 7.25%",
+          "S\u00eanior 2 - Rentabilidade Alvo: CDI + 4.75%",
+          "J\u00fanior 1",
+          "S\u00eanior 1 - Rentabilidade Alvo: CDI + 5.25%"
+        ]
+      },
+      {
+        "titulo": "Indicadores Básicos",
+        "cabecalho": [
+          "Indicadores Básicos"
+        ],
+        "linhas": [
+          [
+            [
+              {
+                "status": "",
+                "valor": "CVNP - R$ mil"
+              },
+              {
+                "status": "",
+                "valor": "2000,09"
+              },
+              {
+                "status": "",
+                "valor": "2000,09"
+              },
+              {
+                "status": "",
+                "valor": "2000,09"
+              },
+              {
+                "status": "",
+                "valor": "2000,09"
+              },
+              {
+                "status": "",
+                "valor": "2000,09"
+              },
+              {
+                "status": "",
+                "valor": "2000,09"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "CVNP/Direitos Creditórios (%)"
+              },
+              {
+                "status": "",
+                "valor": "80,33%"
+              },
+              {
+                "status": "",
+                "valor": "80,33%"
+              },
+              {
+                "status": "",
+                "valor": "80,33%"
+              },
+              {
+                "status": "",
+                "valor": "80,33%"
+              },
+              {
+                "status": "",
+                "valor": "80,33%"
+              },
+              {
+                "status": "",
+                "valor": "80,33%"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "PDD/Direitos Creditórios (%)"
+              },
+              {
+                "status": "",
+                "valor": "26,64%"
+              },
+              {
+                "status": "",
+                "valor": "28,48%"
+              },
+              {
+                "status": "",
+                "valor": "28,48%"
+              },
+              {
+                "status": "",
+                "valor": "28,48%"
+              },
+              {
+                "status": "",
+                "valor": "28,48%"
+              },
+              {
+                "status": "",
+                "valor": "28,48%"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "PDD / PL (%)"
+              },
+              {
+                "status": "",
+                "valor": "13,96%"
+              },
+              {
+                "status": "",
+                "valor": "13,96%"
+              },
+              {
+                "status": "",
+                "valor": "13,96%"
+              },
+              {
+                "status": "",
+                "valor": "13,96%"
+              },
+              {
+                "status": "",
+                "valor": "28,48%"
+              },
+              {
+                "status": "",
+                "valor": "28,48%"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Outros Ativos/PL (%)"
+              },
+              {
+                "status": "",
+                "valor": "13,96%"
+              },
+              {
+                "status": "",
+                "valor": "13,96%"
+              },
+              {
+                "status": "",
+                "valor": "13,96%"
+              },
+              {
+                "status": "",
+                "valor": "13,96%"
+              },
+              {
+                "status": "",
+                "valor": "28,48%"
+              },
+              {
+                "status": "",
+                "valor": "28,48%"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Reserva de Caixa - R$ Mil"
+              },
+              {
+                "status": "",
+                "valor": "1000,01"
+              },
+              {
+                "status": "",
+                "valor": "1000,01"
+              },
+              {
+                "status": "",
+                "valor": "1000,01"
+              },
+              {
+                "status": "",
+                "valor": "1000,01"
+              },
+              {
+                "status": "",
+                "valor": "1000,01"
+              },
+              {
+                "status": "",
+                "valor": "1000,01"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Spread Excedente (%)"
+              },
+              {
+                "status": "",
+                "valor": "1,00%"
+              },
+              {
+                "status": "",
+                "valor": "1,01%"
+              },
+              {
+                "status": "",
+                "valor": "1,00%"
+              },
+              {
+                "status": "",
+                "valor": "1,00%"
+              },
+              {
+                "status": "",
+                "valor": "1,01%"
+              },
+              {
+                "status": "",
+                "valor": "1,01%"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Prazo Médio dos Direitos Creditórios (Dias)"
+              },
+              {
+                "status": "",
+                "valor": "1"
+              },
+              {
+                "status": "",
+                "valor": "1"
+              },
+              {
+                "status": "",
+                "valor": "1"
+              },
+              {
+                "status": "",
+                "valor": "1"
+              },
+              {
+                "status": "",
+                "valor": "1"
+              },
+              {
+                "status": "",
+                "valor": "1"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Prazo M\u00e9dio Fiscal do Fundo (Dias)"
+              },
+              {
+                "status": "",
+                "valor": "15"
+              },
+              {
+                "status": "",
+                "valor": "5"
+              },
+              {
+                "status": "",
+                "valor": "15"
+              },
+              {
+                "status": "",
+                "valor": "15"
+              },
+              {
+                "status": "",
+                "valor": "5"
+              },
+              {
+                "status": "",
+                "valor": "5"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Alocação em DCs (% PL)"
+              },
+              {
+                "status": "",
+                "valor": "1,01%"
+              },
+              {
+                "status": "",
+                "valor": "1,01%"
+              },
+              {
+                "status": "",
+                "valor": "1,01%"
+              },
+              {
+                "status": "",
+                "valor": "1,01%"
+              },
+              {
+                "status": "",
+                "valor": "1,01%"
+              },
+              {
+                "status": "",
+                "valor": "1,01%"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "PL médio últimos 3 meses (R$)"
+              },
+              {
+                "status": "",
+                "valor": "1,00"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,00"
+              },
+              {
+                "status": "",
+                "valor": "1,00"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              },
+              {
+                "status": "",
+                "valor": "1,01"
+              }
+            ]
+          ]
+        ]
+      },
+      {
+        "titulo": "Indicadores específicos",
+        "cabecalho": [
+          "Indicadores especificos"
+        ],
+        "linhas": [
+          [
+            [
+              {
+                "status": "",
+                "valor": "Reserva de Caixa (% PL)",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "113,76%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "100,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "100,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "100,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "100,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "100,00%",
+                "situacao": "2"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Maior Sacado (%PL)",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "9,36%",
+                "situacao": "0"
+              },
+              {
+                "status": "",
+                "valor": "9,36%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "9,36%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "9,36%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "9,36%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "9,36%",
+                "situacao": "2"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Maior Sacado Especial",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "3,72%",
+                "situacao": "0"
+              },
+              {
+                "status": "",
+                "valor": "10,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "10,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "10,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "10,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "10,00%",
+                "situacao": "2"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Direitos Creditórios Performados (%PL)",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "10,00%",
+                "situacao": "0"
+              },
+              {
+                "status": "",
+                "valor": "10,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "10,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "10,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "10,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "10,00%",
+                "situacao": "2"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Direitos Creditórios a Performar (%PL)",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "80,33%",
+                "situacao": "0"
+              },
+              {
+                "status": "",
+                "valor": "50,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "50,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "50,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "50,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "50,00%",
+                "situacao": "2"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Direitos Creditórios representados por Cheques (%PL)",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "2400,00%",
+                "situacao": "0"
+              },
+              {
+                "status": "",
+                "valor": "2400,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "2400,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "2400,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "2400,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "2400,00%",
+                "situacao": "2"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "DCs representados por CCBs - (%PL)",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "92,99%",
+                "situacao": "0"
+              },
+              {
+                "status": "",
+                "valor": "50,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "50,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "50,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "50,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "50,00%",
+                "situacao": "2"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "DCs representados por Contratos de Prestação de Serviços (%PL)",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "96,31%",
+                "situacao": "1"
+              },
+              {
+                "status": "",
+                "valor": "100,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "100,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "100,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "100,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "100,00%",
+                "situacao": "2"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "DC representados por CCB com prazo maior que 360 dias",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "96,31%",
+                "situacao": "1"
+              },
+              {
+                "status": "",
+                "valor": "100,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "100,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "100,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "100,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "100,00%",
+                "situacao": "2"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "DC representado por Contratos com prazo maior que 252 dias",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "92,47%",
+                "situacao": "1"
+              },
+              {
+                "status": "",
+                "valor": "100,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "100,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "100,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "100,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "100,00%",
+                "situacao": "2"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Prazo m\u00e1ximo CCB",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "18,50%",
+                "situacao": "0"
+              },
+              {
+                "status": "",
+                "valor": "5,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "5,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "5,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "5,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "5,00%",
+                "situacao": "2"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Prazo M\u00e9dio contratos (dias)",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "379,53",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "36500,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "36500,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "36500,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "36500,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "36500,00%",
+                "situacao": "2"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Prazo Médio dos Direitos Creditórios",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "36500,00%",
+                "situacao": "0"
+              },
+              {
+                "status": "",
+                "valor": "36500,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "36500,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "36500,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "36500,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "36500,00%",
+                "situacao": "2"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Subordinação Senior (%PL)",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "0"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Subordinação Mezanino (%PL)",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "0"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Subordinação Minima das Cotas Mezanino High Yield (%)",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "0"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Índice de Liquidez",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "0"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Reserva de amortização 5 dias antes",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "0"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Taxa Média da Carteira (%)",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "0"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Taxa mínima de cessão mensal",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "0"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Índice de inadimplência",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "0"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "indicadores_mensais": 
+      {
+        "titulo": "Indicadores Mensais",
+        "cabecalho": [
+          "Indicadores mensais"
+        ],
+        "datas": [
+          "31-10-2023",
+          "30-11-2023",
+          "31-12-2023",
+          "31-01-2023",
+          "28-02-2023",
+          "31-03-2023"
+        ],
+        "linhas": [
+          [
+            [
+              {
+                "status": "",
+                "valor": "Concentração [quando aplicável]",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "14.43%",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "14,43%",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "14,43%",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "14,43%",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "14,43%",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": ""
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Maior Cedente",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "35,00%",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "35,00%",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "35,00%",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "35,00%",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "35,00%",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "35,00%",
+                "situacao": "2"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "05 Maiores Cedentes",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "3,72%",
+                "situacao": "0"
+              },
+              {
+                "status": "",
+                "valor": "3,72%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "3,72%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "3,72%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "3,72%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "3,72%",
+                "situacao": "2"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "10 Maiores Cedentes",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "319.455.676,63",
+                "situacao": "0"
+              },
+              {
+                "status": "",
+                "valor": "319.455.676,63",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "319.455.676,63",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "319.455.676,63",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "319.455.676,63",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "319.455.676,63",
+                "situacao": "2"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Maior Sacado",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "80,33%",
+                "situacao": "0"
+              },
+              {
+                "status": "",
+                "valor": "50,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "50,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "50,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "50,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "50,00%",
+                "situacao": "2"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "05 Maiores Sacados",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "enquadrado",
+                "situacao": "0"
+              },
+              {
+                "status": "",
+                "valor": "enquadrado",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "enquadrado",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "enquadrado",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "enquadrado",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "enquadrado",
+                "situacao": "2"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "10 Maiores Sacados",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "92,99%",
+                "situacao": "0"
+              },
+              {
+                "status": "",
+                "valor": "92,99%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "92,99%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "92,99%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "92,99%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "92,99%",
+                "situacao": "2"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Originação",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "96,31%",
+                "situacao": "1"
+              },
+              {
+                "status": "",
+                "valor": "100,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "100,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "100,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "100,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "100,00%",
+                "situacao": "2"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Originação Acumulada do mês - R$",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "92,47%",
+                "situacao": "1"
+              },
+              {
+                "status": "",
+                "valor": "100,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "100,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "100,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "100,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "100,00%",
+                "situacao": "2"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Taxa M\u00e9dia de Cessão (%)",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "18,50%",
+                "situacao": "0"
+              },
+              {
+                "status": "",
+                "valor": "5,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "5,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "5,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "5,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "5,00%",
+                "situacao": "2"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Prazo M\u00e9dio de Cessão - [dias ou meses]",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "40",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "40",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "40",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "40",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "40",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "40",
+                "situacao": "2"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Atraso",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "70",
+                "situacao": "0"
+              },
+              {
+                "status": "",
+                "valor": "70",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "70",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "70",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "70",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "70",
+                "situacao": "2"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Acima de 60 dias",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "0"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Acima de 90 dias",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "0"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Acima de 180 dias",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "0"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Fluxo de Caixa",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "0"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "105,00%",
+                "situacao": "2"
+              }
+            ],
+            [
+              {
+                "status": "",
+                "valor": "Recimento / Vencimento no Mês",
+                "situacao": ""
+              },
+              {
+                "status": "",
+                "valor": "enquadrado",
+                "situacao": "0"
+              },
+              {
+                "status": "",
+                "valor": "enquadrado",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "enquadrado",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "enquadrado",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "enquadrado",
+                "situacao": "2"
+              },
+              {
+                "status": "",
+                "valor": "enquadrado",
+                "situacao": "2"
+              }
+            ]
+          ]
+        ]
+      },
+    "rerun": "true"
+  
+  }
+  
